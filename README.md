@@ -1,1 +1,1 @@
-# Basic_Faces_Recognition
+# Basic of Faces Recognition in Python
